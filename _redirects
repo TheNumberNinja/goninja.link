@@ -1,0 +1,5 @@
+# Netlify to goninja.link
+https://goninjalink.netlify.app/* https://goninja.link/:splat 301!
+
+# Shortened links
+/tnn/ https://thenumber.ninja/ 301!
